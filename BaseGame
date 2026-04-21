@@ -23,8 +23,8 @@
 | 🔮 Crystal Crumb | 5 | Action - Info |
 | 🎵 Vinyl Scratch | 4 | Action - Disruption |
 | 🎲 Roll 4 Initiative | 4 | Action - Dice |
-| 💀 Cursed Dice | 4 | Action - Dice / Attack |
-| 🍪 Tracking Cookies | 3 | Action - Info |
+| 💀 Cursed Die | 4 | Action - Dice / Attack |
+| 🍪 Cookies Accepted | 3 | Action - Info |
 | 📜 Extra Serving | 4 | Action - Draw |
 | 🥛 Stolen Sip | 4 | Action - Attack |
 | 📖 Mimicry Scroll | 3 | Action - Wildcard |
@@ -124,7 +124,7 @@ This ends your turn(s) and play continues with the person following the person d
 
 ---
 
-### 💀 Cursed Dice — Dice / Attack
+### 💀 Cursed Die — Dice / Attack
 **Play on any other player.** They must roll the die:
 
 | Roll | Effect |
@@ -137,7 +137,7 @@ This ends your turn(s) and play continues with the person following the person d
 
 ---
 
-### 🍪 Tracking Cookies — Info
+### 🍪 Cookies Accepted — Info
 **Choose any player.** Peek at **3 random cards** from their hand *(or their full hand if they have fewer than 3)*.
 
 *"Privacy settings: off."*
@@ -152,7 +152,10 @@ This ends your turn(s) and play continues with the person following the person d
 ---
 
 ### 🥛 Stolen Sip — Attack
-**Point to a specific card in any player's hand** *(by position, not by name)*. They must reveal it. If it's a **Milk Splash**, they must give it to you. If it's anything else, nothing happens.
+**Point to a specific card not in the discard pile** *(by position, not by name)*. If it's a **Milk Splash**, take it into your hand. If it's anything else, nothing happens.
+
+- Can be a card at the top of the draw pile or an opponents hand.
+
 
 *"Oops. Their safety net: gone."*
 
