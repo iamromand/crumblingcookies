@@ -16,19 +16,19 @@
 | Card | +Copies | Type | Notes |
 |------|---------|------|-------|
 | 🍪 Crumbling Cookie | +3 | Bomb | Need up to 5 for 6 players |
-| 🥛 Milk Splash | +3 | Defuse | One per extra player at setup |
+| 🥛 Milk Splash | +1 | Defuse | One per extra player at setup |
 | 🐸 Leaping Frog | +4 | Defense | Scales defense up |
 | 🛡️ Shield Spell | +5 | Defense | Scales defense up |
-| 🥣 Stir the Batter | +2 | Deck / Utility | More deck manipulation at scale |
-| 🍄 Magic Mushroom | +2 | Info + Draw | Bigger deck needs more info |
+| 🥣 Stir the Batter | +3 | Deck / Utility | More deck manipulation at scale |
+| 🔮 Crystal Crumb | +2 | Info + Draw | Bigger deck needs more info |
 | 🎵 Vinyl Scratch | +2 | Disruption | More players = more chaos |
 | 🎲 Roll 4 Initiative | +2 | Dice | More targets |
 | 💀 Cursed Dice | +2 | Dice / Attack | More info on your opponents|
-| 🍪 Tracking Cookies | +1 | Info | More targets |
+| 🍪 Tracking Cookies | +2 | Info | More targets |
 | 📜 Extra Serving | +3 | Draw | Bigger deck needs more draw |
 | 🥛 Stolen Sip | +2 | Attack | More Milk Splashes to steal |
 | 📖 Mimicry Scroll | +3 | Wildcard | Bigger discard = more useful |
-| 🔮 Crystal Crumb | +6 | Info / Deck | NEW |
+| 🍄 Magic Mushroom | +6 | Info / Deck | NEW |
 | 🎰 Reloaded Die | +6 | Dice Modifier | NEW |
 | 🔄 Cookie Swap | +3 | Social | NEW |
 | 🧙 Dungeon Master | +3 | Dice / Attack | NEW |
@@ -40,25 +40,27 @@
 ## 🎮 Setup (Combined Deck)
 
 1. Remove all **Crumbling Cookies** and **Milk Splashes** from the combined deck.
-2. Deal **7 cards** to each player. Then deal **1 Milk Splash** to each player *(8 cards total per player)*.
+2. Deal **4 cards** to each player. Then deal **1 Milk Splash** to each player *(5 cards total per player)*.
 3. Shuffle Crumbling Cookies back in — **one fewer than the number of players**:
    - 3 players → 2 · 4 players → 3 · 5 players → 4 · 6 players → 5
    - Leftover Milk Splashes? Shuffle up to **2 extras** back into the deck.
 4. Shuffle the deck.
 5. **Sweetest player (Whoever most recently ate something sweet) goes first.**
 
+Disclaimer: Biting Sugar must be done with consent
+
 ---
 
-## 🎲 The Cookie Jar Roll *(4+ Players Only)*
+## 🎲 Tempt the Jar *(4+ Players Only)*
 
-Once per turn, **before drawing**, any player may choose to **Tempt the Jar** — but only if the discard pile contains **2 or more Milk Splashes**.
+Once per turn, **before drawing or playing an action that ends the turn**, any player may choose to **Tempt the Jar** — but only if the discard pile contains **1 or more Milk Splashes**.
 
 Roll the die and compare your result to the **number of Milk Splashes currently in the discard pile**:
 
 | Die Result vs. Milk Splashes in Discard | Effect |
 |------------------------------------------|--------|
 | **Higher** than Milk Splashes | Skip your draw phase AND discard 1 card from your hand |
-| **Lower** than Milk Splashes | Draw 2 cards immediately (one at a time) |
+| **Lower** than Milk Splashes | Draw 2 cards (one at a time) |
 | **Exactly equal** to Milk Splashes | Take 1 Milk Splash from the discard pile into your hand |
 This ends your turn.
 
@@ -73,15 +75,16 @@ This ends your turn.
 
 ---
 
-### 🔮 Crystal Crumb — Info / Deck
-**Look at the top 5 cards of the deck.** You may reorder them however you like.
+### 🍄 Magic Mushroom — Info
+**Look at the top 5 cards of the deck.** You may take one of the cards and replace it with one of the cards from your hand and place them on the deck in any order.
+
 
 *"I see… brown. Lots of brown. And something awful."*
 
 ---
 
 ### 🎰 Reloaded Die — Dice Modifier / Reaction
-**Reroll any single die result** — yours or another player's — immediately after it's rolled. Play as a reaction.
+**Discard a card to reroll any single die result** — yours or another player's — immediately after it's rolled. Play as a reaction.
 
 *"I prefer my odds pre-loaded."*
 
@@ -97,17 +100,18 @@ This ends your turn.
 ### 🧙 Dungeon Master — Dice / Attack
 **Declare a number 1–6.** Force any player to roll the die.
 
-- If they roll your **declared number exactly**: they draw 3 cards *(must leave at least 1 in deck)*. This ends your turn.
-- If they **miss**: nothing happens.
+- If they **miss***: they discard 1 card.
+- If they roll your **declared number exactly**: nothing happens.
 
 *"I am the architect of your suffering."*
 
 ---
 
 ### 🍪 Jar Bait — Cookie Jar Roll
-**Play on any player (including yourself).** That player must immediately **Tempt the Jar** — rolling the die and resolving the Cookie Jar Roll effect.
+**Play on any other player** That player must immediately **Tempt the Jar** — rolling the die and resolving the Cookie Jar Roll effect.
+This ends your turn. Game resumes from the player who should have followed you.
 
-> ⚠️ The discard pile minimum of **2 Milk Splashes** still applies. If the pile is too small, this card is wasted.
+> ⚠️ The discard pile minimum of **1 Milk Splashes** still applies. If the pile is too small, this card is wasted.
 
 *"The jar called. It's personal."*
 
