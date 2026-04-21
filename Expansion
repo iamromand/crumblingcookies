@@ -23,13 +23,13 @@
 | 🔮 Crystal Crumb | +2 | Info + Draw | Bigger deck needs more info |
 | 🎵 Vinyl Scratch | +2 | Disruption | More players = more chaos |
 | 🎲 Roll 4 Initiative | +2 | Dice | More targets |
-| 💀 Cursed Dice | +2 | Dice / Attack | More info on your opponents|
-| 🍪 Tracking Cookies | +2 | Info | More targets |
+| 💀 Cursed Die | +2 | Dice / Attack | More info on your opponents|
+| 🍪 Cookies Accepted | +2 | Info | More targets |
 | 📜 Extra Serving | +3 | Draw | Bigger deck needs more draw |
 | 🥛 Stolen Sip | +2 | Attack | More Milk Splashes to steal |
 | 📖 Mimicry Scroll | +3 | Wildcard | Bigger discard = more useful |
 | 🍄 Magic Mushroom | +6 | Info / Deck | NEW |
-| 🎰 Reloaded Die | +6 | Dice Modifier | NEW |
+| 🎰 Roll Rewind | +6 | Dice Modifier | NEW |
 | 🔄 Cookie Swap | +3 | Social | NEW |
 | 🧙 Dungeon Master | +3 | Dice / Attack | NEW |
 | 🍪 Jar Bait | +3 | Cookie Jar Roll | NEW |
@@ -83,7 +83,7 @@ This ends your turn.
 
 ---
 
-### 🎰 Reloaded Die — Dice Modifier / Reaction
+### 🎰 Roll Rewind — Dice Modifier / Reaction
 **Discard a card to reroll any single die result** — yours or another player's — immediately after it's rolled. Play as a reaction.
 
 *"I prefer my odds pre-loaded."*
