@@ -16,16 +16,16 @@
 | Card | Copies | Type |
 |------|--------|------|
 | 🍪 Crumbling Cookie | 2 | Bomb |
-| 🥛 Milk Splash | 3 | Defuse |
+| 🥛 Milk Splash | 5 | Defuse |
 | 🐸 Leaping Frog | 7 | Defense |
 | 🛡️ Shield Spell | 7 | Defense |
 | 🥣 Stir the Batter | 3 | Deck / Utility |
-| 🍄 Magic Mushroom | 6 | Info + Draw |
+| 🍄 Magic Mushroom | 5 | Info |
 | 🎵 Vinyl Scratch | 4 | Disruption |
 | 🎲 Roll 4 Initiative | 4 | Dice |
 | 💀 Cursed Dice | 4 | Dice / Attack |
-| 🍪 Accept Cookies | 3 | Info |
-| 📜 Extra Serving | 5 | Draw |
+| 🍪 Tracking Cookies | 3 | Info |
+| 📜 Extra Serving | 4 | Draw |
 | 🥛 Stolen Sip | 4 | Attack |
 | 📖 Mimicry Scroll | 3 | Wildcard |
 | **TOTAL** | **55** | |
@@ -40,24 +40,24 @@
    - 2 players → 1 cookie · 3 players → 2 cookies
    - You may have leftover Milk Splashes — shuffle up to **2 extras** back into the deck.
 4. Shuffle the deck.
-5. **Whoever most recently ate something sweet goes first.**
+5. **Sweetest player (Whoever most recently ate something sweet) goes first.**
 
 ---
 
 ## 🔄 On Your Turn
 
 1. *(Optional)* Play any number of action cards from your hand.
-2. **Draw a card** from the top of the deck.
+2. Your turn ends when you or another player **Draws a card** or a **card effect ends your turn** earlier.
 
 > ⚠️ **Drew a Crumbling Cookie?**
-> Play a **Milk Splash** to survive — then secretly reinsert the cookie anywhere in the deck. No Milk Splash? You're **eliminated**.
+> Play a **Milk Splash** to survive — then secretly reinsert the cookie anywhere in the deck. No Milk Splash? Your **cookie crumbles** (you're elimated).
 > Keep Milk Splashes in a separate discard pile, slightly spread out so players can count how many are there.
 
 ---
 
 ## 🏆 Winning
 
-The **last player standing** wins the cookie jar. Glory, crumbs, and bragging rights are yours.
+The **last intact cookie** wins the cookie jar. Glory, crumbs, and bragging rights are yours.
 
 ---
 
@@ -68,7 +68,7 @@ The **last player standing** wins the cookie jar. Glory, crumbs, and bragging ri
 ### 🐸 Leaping Frog — Defense
 **Skip your draw phase.** Pass the turn to the next player — no draw, no risk.
 
-If forced to draw multiple cards by another player's effect, each Leaping Frog skips **one** of those draws. *(Not valid for self-inflicted multi-draws.)*
+If drawing multiple cards by another card's effect, each Leaping Frog skips **one** of those draws. 
 
 *"Ribbit. Not today."*
 
@@ -77,7 +77,7 @@ If forced to draw multiple cards by another player's effect, each Leaping Frog s
 ### 🛡️ Shield Spell — Defense / Reaction
 **Play as a reaction when any card is played** — including another Shield Spell. Cancel its effect entirely.
 
-- Can be played **outside your turn** to protect another player.
+- Can be played **outside your turn** to defend against another players action.
 - Two Shield Spells cancel **each other**.
 
 *"Spell slot: used."*
@@ -85,21 +85,23 @@ If forced to draw multiple cards by another player's effect, each Leaping Frog s
 ---
 
 ### 🥣 Stir the Batter — Deck / Utility
-**Shuffle the entire draw pile** in any order you choose. Place the deck face-down when done.
+**Shuffle the entire draw pile.** Place the deck face-down when done.
 
 *"The prophecy has been... amended."*
 
 ---
 
-### 🍄 Magic Mushroom — Info + Draw
-**Look at the top 3 cards of the deck, then draw.**
+### 🍄 Magic Mushroom — Info
+Look at the **top 3 cards** of the deck and **replace them in any order.**
 
 *"It's giving… oracle energy."*
 
 ---
 
 ### 🎵 Vinyl Scratch — Disruption
-**Reverse the turn order.** Play continues in the opposite direction for the rest of the game, or until another Vinyl Scratch is played.
+**Reverse the turn order.** 
+End your turn immediately without drawing a card.
+Play continues in the new direction until another Vinyl Scratch is played..
 
 *"B-side activated."*
 
@@ -110,9 +112,10 @@ Roll the die and consult the result:
 
 | Roll | Effect |
 |------|--------|
-| 1–2 | Force any one player to draw up to 2 cards *(must leave at least 1 in deck)* |
-| 3 / 5 / 6 | Skip your draw phase entirely |
-| 4 | Draw up to 3 cards yourself *(must leave at least 1 in deck)* |
+| 1–3 | Skip your draw phase entirely |
+| 4 | Draw up to 3 cards yourself *(or fewer if the deck has less than 4)* |
+| 5–6 | Force any one player to draw up to 2 cards *(or fewer if the deck has less than 2)*|
+This ends your turn and play continues with the person following you (not the person drawing).
 
 *"Nat 4 goes hard actually."*
 
@@ -131,7 +134,7 @@ Roll the die and consult the result:
 
 ---
 
-### 🍪 Accept Cookies — Info
+### 🍪 Tracking Cookies — Info
 **Choose any player.** Peek at **3 random cards** from their hand *(or their full hand if they have fewer than 3)*.
 
 *"Privacy settings: off."*
@@ -139,7 +142,7 @@ Roll the die and consult the result:
 ---
 
 ### 📜 Extra Serving — Draw
-**Draw 2 cards** from the top of the deck. This **replaces** your normal end-of-turn draw.
+**Draw 2 cards** from the top of the deck. This ends your turn. You cannot play other cards in between the draws.
 
 *"Seconds? Don't mind if I do."*
 
